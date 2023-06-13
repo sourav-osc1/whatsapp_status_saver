@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
-options: "2e4faa5f31d802eb2bcaf21233d4c9649fd6f8c7702d7d513358a8272c2fd159"
-build_start_time: [1686419846, 254444000]
-build_end_time: [1686419846, 285631000]
+options: "e93f916d0f9e04c325361ab34ed7b8a9fb1cb330f63f8dd9942a00540367dc0c"
+build_start_time: [1686461898, 342763000]
+build_end_time: [1686461898, 398809000]
 inputs:
-  "/Users/souravdas/Desktop/projects/status/whatsapp_status_saver/status_saver/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1686419836, 38382100]
-  "/Users/souravdas/Desktop/projects/status/whatsapp_status_saver/status_saver/macos/Runner/AppDelegate.swift": !private [1684953162, 0]
-  "/Users/souravdas/Desktop/projects/status/whatsapp_status_saver/status_saver/macos/Runner/MainFlutterWindow.swift": !private [1684953162, 0]
+  "/Users/souravdas/Desktop/projects/status/whatsapp_status_saver/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1686461887, 619583912]
+  "/Users/souravdas/Desktop/projects/status/whatsapp_status_saver/macos/Runner/AppDelegate.swift": !private [1684953162, 0]
+  "/Users/souravdas/Desktop/projects/status/whatsapp_status_saver/macos/Runner/MainFlutterWindow.swift": !private [1684953162, 0]
